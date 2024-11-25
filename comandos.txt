@@ -4,3 +4,4 @@
 4- $ grep -v -n -i -w "anillo" anillo.txt
 5- $ grep  "^Frodo"  anillo.txt
 6- $ grep  "Mordor.$"  anillo.txt
+7- $ grep -n "[qf]ue"  anillo.txt
