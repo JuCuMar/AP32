@@ -1,3 +1,4 @@
 1- grep agujero anillo.txt
 2- $ grep -i "agujero" anillo.txt
 3- $ grep -w "anillo" anillo.txt
+4- $ grep -v -n -i -w "anillo" anillo.txt
