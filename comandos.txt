@@ -4,6 +4,7 @@
 4- $ grep -v -n -i -w "anillo" anillo.txt
 5- $ grep  "^Frodo"  anillo.txt
 6- $ grep  "Mordor.$"  anillo.txt
-7- $ grep -n "[qf]ue"  anillo.txt
+7- $ grep -n ".ue "  anillo.txt
 8- $ git grep -n -B 2 "elfo" anillo.txt
 9- $ git grep -n -i -A 1 "compañía" anillo.txt
+10- $ grep -n -w "Gandalf.*Gris" anillo.txt
